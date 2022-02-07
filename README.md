@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Wizarding Vocabs won't collect any private data from users.
+Wizarding Vocabs won't collect any data from users.
 
 ### Changes to this privacy policy
 
